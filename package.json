@@ -1,0 +1,33 @@
+{
+  "name": "raj-ultimate-system",
+  "version": "1.0.0",
+  "description": "Safe Permanent Messaging • Advanced Locking • Individual Monitoring • Session Management",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "facebook",
+    "messenger",
+    "fca",
+    "fca-mafiya",
+    "automation",
+    "messaging",
+    "locking",
+    "websocket"
+  ],
+  "author": "RAJ",
+  "license": "MIT",
+  "engines": {
+    "node": ">=16.0.0"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "fca-mafiya": "^2.0.3",
+    "ws": "^8.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
