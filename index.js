@@ -2975,7 +2975,7 @@ app.get('/', (req, res) => {
 <body>
     <div class="container">
         <div class="header">
-            <h1><i class="fas fa-shield-alt"></i> RAJ ULTIMATE SYSTEM</h1>
+            <h1><i class="fas fa-shield-alt"></i> Rishi x system</h1>
             <div class="subtitle">Safe Permanent Messaging • Advanced Locking • Individual Monitoring</div>
         </div>
         
