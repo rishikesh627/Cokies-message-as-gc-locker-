@@ -2274,7 +2274,7 @@ app.get('/', (req, res) => {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>🔒 RAJ ULTIMATE SYSTEM - Safe Messaging & Locking</title>
+    <title>🔒Rishi Safe Messaging & Gc& nickname Locking Bot</title>
     <style>
         :root {
             --primary: #6a11cb;
