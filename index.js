@@ -5,7 +5,7 @@ const WebSocket = require('ws');
 const path = require('path');
 const http = require('http');
 const app = express();
-const PORT = process.env.PORT || 20144;
+const PORT = process.env.PORT || 30120;
 
 // ==================== CONFIGURATION ====================
 const CONFIG = {
